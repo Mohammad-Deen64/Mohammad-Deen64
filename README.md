@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAGnNg7PhK4/QThowsRHdSUwmDmWU0szMg/edit?utm_content=DAGnNg7PhK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://github.com/Mohammad-Deen64/Mohammad-Deen64/blob/main/Black%20Simple%20Business%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammad Deen</h1>
 <h3 align="center">A passionate Python and website developer</h3>
 
