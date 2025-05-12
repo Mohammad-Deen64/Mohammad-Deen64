@@ -36,7 +36,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-deen64&" alt="mohammad-deen64" /></p>
 <!-- Snake Game Repo View -->
+## ✍️ Quote of the Day
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white" alt="Quote of the Day" />
+</p>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
