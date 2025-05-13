@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-deen64&show_icons=true&locale=en" alt="mohammad-deen64" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-deen64&" alt="mohammad-deen64" /></p>
+
 <!-- Snake Game Repo View -->
 ## ✍️ Quote of the Day
 
