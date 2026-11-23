@@ -1,23 +1,23 @@
 ![MasterHead](https://github.com/Mohammad-Deen64/Mohammad-Deen64/blob/main/Black%20Simple%20Business%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammad Deen</h1>
-<h3 align="center">A passionate Python and website developer</h3>
+<h3 align="center">A passionate learner about Computer vision, Machine learning and Cyber Securityr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-deen64&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-deen64" /> </p>
 
 <img align="right" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="400" alt="mohammad-deen64" />
 - 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **Machine learning and AI**
+- 🌱 I’m currently learning **Machine learning, AI and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Data analysis**
+- 👯 I’m looking to collaborate on **Data analysis and Computer Vision**
 
-- 🤝 I’m looking for help with **web and python proramming**
+- 🤝 I’m looking for help with **python proramming and Cyber security**
 
-- 💬 Ask me about **prompt engineering**
+- 💬 Ask me about **Computer Vision, Prompt Engineering and Data Analysis**
 
 - 📫 How to reach me **mohammad.deen51214@gmail.com**
 
-- ⚡ Fun fact **Cool😎**
+- ⚡ Fun fact **Hacked😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
